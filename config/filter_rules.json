@@ -1,0 +1,7 @@
+{
+    "safety_filter": {
+        "blocked_keywords": ["war", "violence", "politics", "hate speech"],
+        "allowed_languages": ["en", "ur"],
+        "auto_moderate": true
+    }
+}

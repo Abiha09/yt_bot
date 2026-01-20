@@ -1,0 +1,18 @@
+# YT_BOT Global Configuration
+project_metadata:
+  version: 1.0.0
+  environment: development
+
+video_settings:
+  resolution: "1080p"
+  preferred_length: "short" # Options: short, long
+  frame_rate: 30
+
+ai_config:
+  provider: "openrouter"
+  model_name: "mistral-7b-free"
+  max_tokens: 1500
+
+youtube_api:
+  privacy_status: "private" # Options: private, public, unlisted
+  category_id: "27" # Education

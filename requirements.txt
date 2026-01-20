@@ -1,0 +1,5 @@
+requests==2.31.0      # For Pexels and OpenRouter APIs
+edge-tts==6.1.9       # For Voiceover
+moviepy==1.0.3        # For Video Editing
+openai-whisper==20231117  # For Subtitles
+google-api-python-client==2.111.0 # For YouTube Upload

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "content": "The Future of Space Travel 2026",
+        "type": "topic",
+        "source": "manual",
+        "status": "pending",
+        "retryCount": 0,
+        "createdAt": "2026-01-21T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "content": "How AI is changing Medical Science",
+        "type": "topic",
+        "source": "trends",
+        "status": "pending",
+        "retryCount": 0,
+        "createdAt": "2026-01-21T10:05:00Z"
+    }
+]
