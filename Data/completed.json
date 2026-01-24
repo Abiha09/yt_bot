@@ -10,5 +10,65 @@
         "completion_timestamp": "2026-01-21 00:33:00",
         "youtube_url": "https://youtube.com/watch?v=mock_vid_1.mp4",
         "status": "success"
+    },
+    {
+        "topic_id": 1,
+        "completion_timestamp": "2026-01-24 01:23:27",
+        "video_path": "Data/library/final_1769199436.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 2,
+        "completion_timestamp": "2026-01-24 01:45:09",
+        "video_path": "Data/library/final_1769200798.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 3,
+        "completion_timestamp": "2026-01-24 01:57:28",
+        "video_path": "Data/library/final_1769201169.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 4,
+        "completion_timestamp": "2026-01-24 12:54:39",
+        "video_path": "Data/library/final_1769241183.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 5,
+        "completion_timestamp": "2026-01-24 13:18:04",
+        "video_path": "Data/library/final_1769241383.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 6,
+        "completion_timestamp": "2026-01-24 13:21:23",
+        "video_path": "Data/library/final_1769242729.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 7,
+        "completion_timestamp": "2026-01-24 13:24:04",
+        "video_path": "Data/library/final_1769242963.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 4,
+        "completion_timestamp": "2026-01-24 14:46:53",
+        "video_path": "Data/library/final_1769243391.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 5,
+        "completion_timestamp": "2026-01-24 15:38:18",
+        "video_path": "Data/library/final_1769250606.mp4",
+        "status": "success"
+    },
+    {
+        "topic_id": 8,
+        "completion_timestamp": "2026-01-24 16:06:51",
+        "video_path": "Data/library/final_1769251766.mp4",
+        "status": "success"
     }
 ]

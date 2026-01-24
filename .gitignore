@@ -1,0 +1,20 @@
+# Credentials
+API.env/
+*.env
+.env
+
+# Data and Videos
+Data/temp/
+Data/library/
+Data/bot_state.json
+Data/completed.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/

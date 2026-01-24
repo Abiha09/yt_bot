@@ -1,18 +1,23 @@
 # YT_BOT Global Configuration
 project_metadata:
-  version: 1.0.0
-  environment: development
+  version: "1.0.0"
+  environment: "development"
+
+automation_settings:
+  daily_limit: 50               # Increased for testing (was 5)
+  check_interval_seconds: 30    # Check for new work every 30 seconds
+  retry_delay_seconds: 60
+  permanent_topic: "benefit of exercise daily" # Change this as you like
 
 video_settings:
-  resolution: "1080p"
+  resolution: "720p"
   preferred_length: "short" # Options: short, long
   frame_rate: 30
 
 ai_config:
   provider: "openrouter"
-  model_name: "mistral-7b-free"
+  model_name: "openrouter/auto"
   max_tokens: 1500
 
-youtube_api:
-  privacy_status: "private" # Options: private, public, unlisted
-  category_id: "27" # Education
+visuals_config:
+  pexels_per_topic: 5
